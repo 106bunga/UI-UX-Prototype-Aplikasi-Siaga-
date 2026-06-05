@@ -1,7 +1,7 @@
 # UI-UX-Prototype-Aplikasi-Siaga-
 # 🚨 Aplikasi Siaga+: Solusi Digital Kesiapsiagaan Bencana Kota Surabaya
 
-> 🔗 **Link Figma Prototype:** (https://bit.ly/AplikasiSiagaPlus)
+> 🔗 **Link Figma Prototype:** (https://bit.ly/PrototypeApkSiagaPlus)
 > 👥 **Tim Penyusun (2025D):** Widhi Fajriyatur R. | Rhea Kisi N. K. | Bunga Desmitha C.  
 > 🏫 **Program Studi:** S1 Sains Data - Universitas Negeri Surabaya  
 
@@ -21,12 +21,14 @@ Kota Surabaya sebagai kota metropolitan memiliki kerentanan tinggi terhadap benc
 ### 1. Onboarding & Login Screen
 Alur awal pengguna saat membuka aplikasi, dirancang bersih dan interaktif untuk mengenalkan esensi utama dari Siaga+.
 
-![Onboarding Screen](assets/splashscreen.gif)
+[Login Screen]<img width="436" height="870" alt="splashscreen" src="https://github.com/user-attachments/assets/e17526d8-d78e-4ef5-a58f-fb3b67862b71" />
+
 
 ### 2. Halaman utama 
 Tampilan utama aplikasi setelah pengguna berhasil masuk. Halaman ini dirancang sebagai pusat informasi krisis yang mengutamakan kecepatan penyampaian data.
 
-![Main Dashboard](assets/homepage.jpeg)
+![Main Dashboard]<img width="827" height="1354" alt="homepage" src="https://github.com/user-attachments/assets/dcf0e47a-4b0e-42a0-8b17-82abc9e7c106" />
+
 
 
 ## 📊 Metodologi Pengembangan (HCD)
